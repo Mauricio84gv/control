@@ -1,1 +1,1 @@
-autorizado=no
+autorizado=si
